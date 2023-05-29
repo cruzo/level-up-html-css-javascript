@@ -1,4 +1,4 @@
-## LVEL-UP 12
+## LEVEL-UP 12
 ## Building your Web Site Inciso 2
 ## How to solve this challenge?
 
